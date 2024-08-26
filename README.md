@@ -12,4 +12,4 @@ paludettomarcelo@gmail.com
 
 @marcelopaludetto
 
-![descrição do GIF]((https://media1.tenor.com/m/mV5PnvV-jd0AAAAd/mc-kevin-salto.gif)
+![descrição do GIF](https://media1.tenor.com/m/mV5PnvV-jd0AAAAd/mc-kevin-salto.gif)
