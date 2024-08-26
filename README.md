@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :blue_heart
 
-Meu nome é Marcelo Paludetto
+Meu nome é braian matias
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,8 +8,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+00001105967268sp@al.educacao.sp.gov.br
 
-@marcelopaludetto
+braian
 
 ![descrição do GIF](https://media1.tenor.com/m/mV5PnvV-jd0AAAAd/mc-kevin-salto.gif)
